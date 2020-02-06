@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/NiceLobby/NetworkLobby_EmptyTanks.unity
+  isLoaded: 1
+  isActive: 1
